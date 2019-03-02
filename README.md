@@ -1,2 +1,2 @@
-# pandomonium branch for project-one
+# pandomonium branch
 The cool branch
