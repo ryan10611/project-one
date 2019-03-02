@@ -1,2 +1,1 @@
-# pandomonium branch
-The cool branch
+# The Cool Branch
